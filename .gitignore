@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# Intermediate files and user settings
+Debug
+*.sdf
+*.suo
+/ipch
+*.user
+*.opensdf
